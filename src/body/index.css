@@ -1,0 +1,19 @@
+
+
+.container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 44% 44% 44%;
+    
+}
+
+.item {
+
+    justify-self: center;
+    display: grid;
+}
+
+.sub-item {
+    justify-self: center;
+}
+    
