@@ -1,4 +1,6 @@
 //I am adding this line
+//I am adding this line
+
 import React, { Component } from 'react';
 import './index.css'
 import view1 from '../img/view1.jpg';
