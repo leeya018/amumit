@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import './index.css'
 import view1 from '../img/view1.jpg';
@@ -64,3 +63,4 @@ class Body extends Component {
 }
 
 export default Body;
+
