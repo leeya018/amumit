@@ -18,8 +18,6 @@ class Nav extends Component {
                         <ul className="navbar-nav mr-auto nav-flex-icons">
                             <li className="nav-item avatar">
                                 <a className="nav-link p-0" href="#">
-                                    {/* <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-5.jpg" className="rounded-circle z-depth-0"
-                                        alt="avatar img" height="35" /> */}
 
                                     <img src={shoshPerfil} className="rounded-circle z-depth-0"
                                         alt="shoshPerfil img" height="35" />
