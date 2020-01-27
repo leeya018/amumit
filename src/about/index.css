@@ -1,0 +1,15 @@
+.about {
+    display: flex;
+    justify-content: center;
+}
+
+
+.about > div {
+    text-align: right;
+    font-size:22px;
+  
+}
+
+.about-foto {
+    width:30%;
+}
