@@ -1,0 +1,15 @@
+.connect {
+    margin-top: 80px;
+}
+
+
+.row-icons {
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.icon {
+    width:40%;
+}
+
