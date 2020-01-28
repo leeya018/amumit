@@ -4,7 +4,7 @@ import view1 from '../img/view1.jpg';
 import view2 from '../img/view2.jpg';
 import view3 from '../img/view3.jpg';
 
-class Body extends Component {
+class Gallery extends Component {
     render() {
         return (
             <div className="container">
@@ -62,5 +62,5 @@ class Body extends Component {
     }
 }
 
-export default Body;
+export default Gallery;
 

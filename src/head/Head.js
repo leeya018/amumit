@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './index.css';
 class Head extends Component {
+
+
     render() {
         return (
             <div className='container1'>
