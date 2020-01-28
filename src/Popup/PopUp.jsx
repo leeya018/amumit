@@ -23,11 +23,10 @@ class PopUp extends React.Component {
           isOpen={this.props.showModal}
           contentLabel="Minimal Modal Example"
         >
-<div>
-          <button onClick={this.props.handleCloseModal}>X</button>
-
-</div>
-          <img className="sub-item" src={this.props.url} alt="view img" style={this.props.style} />
+          <div>
+            <button onClick={this.props.handleCloseModal}>X</button>
+            <img className="sub-item" src={this.props.url} alt="view img" style={this.props.style} />
+          </div>
         </ReactModal>
       </div>
     );
